@@ -1,0 +1,10 @@
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/service/SegurancaServiceImpl.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/entity/Produto.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/entity/Categoria.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/service/SegurancaService.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/repository/MovimentacaoRepository.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/controller/ProdutoController.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/ArmazemApplication.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/repository/CategoriaRepository.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/entity/Movimentacao.java
+/workspace/atividade1/src/main/java/br/gov/sp/fatec/armazem/repository/ProdutoRepository.java
